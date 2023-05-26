@@ -1,3 +1,4 @@
+![logo](https://github.com/ahmadfazal28/info-grafis/blob/main/berita-280-ini-dia-beberapa-alasan-menarik-kenapa-belajar-desain-grafis-menguntungkan-20201014-132455.jpg)
 <h1 align="center">Hi 👋, I'm Ahmad fazal</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
